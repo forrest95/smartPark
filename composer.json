@@ -1,0 +1,13 @@
+{
+    "name"  : "workerman/workerman-todpole",
+    "type"  : "project",
+    "keywords": ["chat"],
+    "homepage": "http://www.workerman.net",
+    "license" : "MIT",
+    "require": {
+        "workerman/gateway-worker" : ">=3.0.0",
+        "workerman/workerman" : "~4.0.0",
+        "workerman/mqtt": "^1.1",
+        "mikecao/flight": "^1.3"
+    }
+}

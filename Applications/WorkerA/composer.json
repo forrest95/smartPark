@@ -1,0 +1,22 @@
+{
+    "name": "wazsmwazsm/workera",
+    "description": "A webAPI framework for workerman.",
+    "keywords": ["framework", "workerman"],
+    "license": "MIT",
+    "homepage": "https://github.com/wazsmwazsm/WorkerA",
+    "authors": [
+      {
+        "name": "MrQin",
+        "email": "942443360@qq.com"
+      }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "wazsmwazsm/workerf": "1.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

@@ -1,0 +1,450 @@
+2021-03-21 08:44:14 pid:1 Error: Class 'Db' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:44
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_businessworker.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:44:14 pid:1 Error: Class 'Db' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:44
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:44:15 pid:1 Worker process terminated
+2021-03-21 08:44:15 pid:1 Worker process terminated
+2021-03-21 08:44:16 pid:1 Error: Class 'Db' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:44
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_businessworker.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:44:16 pid:1 Error: Class 'Db' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:44
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:44:17 pid:1 Worker process terminated
+2021-03-21 08:44:17 pid:1 Worker process terminated
+2021-03-21 08:44:18 pid:1 Error: Class 'Db' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:44
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_businessworker.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:44:18 pid:1 Error: Class 'Db' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:44
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:45:21 pid:1 Error: Class 'Logs' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:47
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:45:22 pid:1 Worker process terminated
+2021-03-21 08:45:23 pid:1 Error: Class 'Logs' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:47
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 08:45:24 pid:1 Worker process terminated
+2021-03-21 08:46:26 pid:1 PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1708
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1708): PDO->__construct('mysql:dbname=te...', 'root', 'hwtc@666', Array)
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\Db.php(48): GatewayWorker\Lib\DbConnection->__construct('127.0.0.1', 3306, 'root', 'hwtc@666', 'test', 'utf8')
+#3 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Lib\Logs.php(36): GatewayWorker\Lib\Db::instance('db2')
+#4 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Lib\Logs.php(54): Lib\Logs::setLog('info', 'start MqttWorke...')
+#5 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php(50): Lib\Logs::logInfo('start MqttWorke...')
+#6 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#7 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#8 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#9 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#10 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#11 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#12 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#13 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#14 {main}
+2021-03-21 08:46:27 pid:1 Worker process terminated
+2021-03-21 08:47:15 pid:1 PDOException: SQL:INSERT INTO `tb_logs` ( `logtype`,`logtext`,`logtime`) VALUES ( :logtype,:logtext,:logtime) SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.tb_logs' doesn't exist in C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1766
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1824): GatewayWorker\Lib\DbConnection->execute('INSERT INTO `tb...', Array)
+#1 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Lib\Logs.php(36): GatewayWorker\Lib\DbConnection->query()
+#2 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Lib\Logs.php(54): Lib\Logs::setLog('info', 'start MqttWorke...')
+#3 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php(50): Lib\Logs::logInfo('start MqttWorke...')
+#4 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#7 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#8 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#9 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#10 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#11 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#12 {main}
+2021-03-21 08:47:16 pid:1 Worker process terminated
+2021-03-21 09:15:03 pid:1 Error: Class 'Workerman\Mqtt\Client' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:52
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 09:15:04 pid:1 Worker process terminated
+2021-03-21 09:15:05 pid:1 Error: Class 'Workerman\Mqtt\Client' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:52
+Stack trace:
+#0 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1418): GatewayWorker\BusinessWorker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1361): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_mqtt.php(34): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 09:35:18 pid:1 Error: Class 'Timer' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:58
+Stack trace:
+#0 [internal function]: Events::{closure}(Object(Workerman\Mqtt\Client))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\mqtt\src\Client.php(505): call_user_func(Object(Closure), Object(Workerman\Mqtt\Client))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): Workerman\Mqtt\Client->onConnectionMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #34)
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): GatewayWorker\BusinessWorker->run()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#8 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_publish.php(34): Workerman\Worker::runAll()
+#10 {main}
+2021-03-21 09:35:18 pid:1 Worker process terminated
+2021-03-21 09:35:18 pid:1 Error: Class 'Timer' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:58
+Stack trace:
+#0 [internal function]: Events::{closure}(Object(Workerman\Mqtt\Client))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\mqtt\src\Client.php(505): call_user_func(Object(Closure), Object(Workerman\Mqtt\Client))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): Workerman\Mqtt\Client->onConnectionMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #34)
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): GatewayWorker\BusinessWorker->run()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#8 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_publish.php(34): Workerman\Worker::runAll()
+#10 {main}
+2021-03-21 09:35:18 pid:1 Worker process terminated
+2021-03-21 09:35:19 pid:1 Error: Class 'Timer' not found in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Events.php:58
+Stack trace:
+#0 [internal function]: Events::{closure}(Object(Workerman\Mqtt\Client))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\mqtt\src\Client.php(505): call_user_func(Object(Closure), Object(Workerman\Mqtt\Client))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): Workerman\Mqtt\Client->onConnectionMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #34)
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): GatewayWorker\BusinessWorker->run()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#8 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#9 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_publish.php(34): Workerman\Worker::runAll()
+#10 {main}
+2021-03-21 09:35:19 pid:1 Worker process terminated
+2021-03-21 10:29:15 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:10) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 9"
+2021-03-21 10:34:35 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:10) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 9"
+2021-03-21 10:36:00 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:10) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 9"
+2021-03-21 10:37:53 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:10) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 9"
+2021-03-21 10:37:55 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:10) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 9"
+2021-03-21 10:37:58 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:10) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 9"
+2021-03-21 10:38:40 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:10) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 9"
+2021-03-21 10:41:04 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:16) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 15"
+2021-03-21 10:41:06 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:16) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 15"
+2021-03-21 10:41:08 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare hello() (previously declared in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php:16) in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 15"
+2021-03-21 10:50:34 pid:1 ArgumentCountError: Too few arguments to function exec_php_file(), 1 passed in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php on line 47 and exactly 2 expected in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php:64
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php(47): exec_php_file('C:\\Users\\Admini...')
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #35)
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php(79): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 10:50:34 pid:1 Worker process terminated
+2021-03-21 10:50:36 pid:1 ArgumentCountError: Too few arguments to function exec_php_file(), 1 passed in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php on line 47 and exactly 2 expected in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php:64
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php(47): exec_php_file('C:\\Users\\Admini...')
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php(79): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 10:50:36 pid:1 Worker process terminated
+2021-03-21 10:50:41 pid:1 ArgumentCountError: Too few arguments to function exec_php_file(), 1 passed in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php on line 47 and exactly 2 expected in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php:64
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php(47): exec_php_file('C:\\Users\\Admini...')
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#7 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_web.php(79): Workerman\Worker::runAll()
+#8 {main}
+2021-03-21 10:50:41 pid:1 Worker process terminated
+2021-03-21 10:52:43 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required 'flight/Flight.php' (include_path='.;C:\php\pear') in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 4"
+2021-03-21 10:52:44 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required 'flight/Flight.php' (include_path='.;C:\php\pear') in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 4"
+2021-03-21 10:52:46 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required 'flight/Flight.php' (include_path='.;C:\php\pear') in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\index.php on line 4"
+2021-03-21 11:15:24 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:15:25 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:15:25 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:15:25 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:15:26 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:15:26 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:15:26 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:15:27 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:15:27 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:15:27 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:15:28 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:15:28 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:15:28 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:15:29 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:15:29 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:15:29 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:15:30 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:15:30 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:15:30 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:15:31 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:15:31 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:21 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:21 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:21 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:16:22 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:22 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:22 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:16:23 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:23 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:23 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:16:24 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:24 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:24 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:16:25 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:25 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:16:25 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:26 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:26 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:16:26 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:27 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:27 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:27 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 11:16:28 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-21 11:16:28 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleBusinessWorker:0
+2021-03-21 11:16:28 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-21 13:32:02 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:32:04 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:32:10 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:32:12 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:41:27 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:41:28 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:41:33 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:41:38 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot declare class Flight, because the name is already in use in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\Web\flight\Flight.php on line 12"
+2021-03-21 13:45:06 pid:1 Worker process terminated
+2021-03-21 13:45:07 pid:1 Worker process terminated
+2021-03-21 13:45:13 pid:1 Worker process terminated
+2021-03-21 13:45:43 pid:1 Worker process terminated
+2021-03-21 13:46:43 pid:1 Worker process terminated
+2021-03-21 13:46:58 pid:1 Worker process terminated
+2021-03-21 14:16:14 pid:1 Error: Class 'Workerman\Protocols\HttpCache' not found in C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php:99
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): Workerman\WebServer->onWorkerStart(Object(Workerman\WebServer))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php(85): Workerman\Worker->run()
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\WebServer->run()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(31): Workerman\Worker::runAll()
+#6 {main}
+2021-03-21 14:16:15 pid:1 Worker process terminated
+2021-03-21 14:16:16 pid:1 Error: Class 'Workerman\Protocols\HttpCache' not found in C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php:99
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): Workerman\WebServer->onWorkerStart(Object(Workerman\WebServer))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php(85): Workerman\Worker->run()
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\WebServer->run()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(31): Workerman\Worker::runAll()
+#6 {main}
+2021-03-21 14:18:36 pid:1 Error: Call to undefined method Workerman\Protocols\Http::getMimeTypesFile() in C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php:116
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php(101): Workerman\WebServer->initMimeTypeMap()
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): Workerman\WebServer->onWorkerStart(Object(Workerman\WebServer))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php(85): Workerman\Worker->run()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\WebServer->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(31): Workerman\Worker::runAll()
+#7 {main}
+2021-03-21 14:18:37 pid:1 Worker process terminated
+2021-03-21 14:18:38 pid:1 Error: Call to undefined method Workerman\Protocols\Http::getMimeTypesFile() in C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php:116
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php(101): Workerman\WebServer->initMimeTypeMap()
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): Workerman\WebServer->onWorkerStart(Object(Workerman\WebServer))
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\WebServer.php(85): Workerman\Worker->run()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\WebServer->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(31): Workerman\Worker::runAll()
+#7 {main}
+2021-03-21 14:18:39 pid:1 Worker process terminated
+2021-03-21 14:24:14 pid:1 Error: Using $this when not in object context in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php:51
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(167): Workerman\Worker::runAll()
+#7 {main}
+2021-03-21 14:24:14 pid:1 Worker process terminated
+2021-03-21 14:24:15 pid:1 Error: Using $this when not in object context in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php:51
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(167): Workerman\Worker::runAll()
+#7 {main}
+2021-03-21 14:24:15 pid:1 Worker process terminated
+2021-03-21 14:24:20 pid:1 Error: Using $this when not in object context in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php:51
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(167): Workerman\Worker::runAll()
+#7 {main}
+2021-03-21 14:24:20 pid:1 Worker process terminated
+2021-03-21 14:24:22 pid:1 Error: Using $this when not in object context in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php:51
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(167): Workerman\Worker::runAll()
+#7 {main}
+2021-03-21 14:24:22 pid:1 Worker process terminated
+2021-03-21 14:24:23 pid:1 Error: Using $this when not in object context in C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php:51
+Stack trace:
+#0 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Connection\TcpConnection.php(637): {closure}(Object(Workerman\Connection\TcpConnection), Object(Workerman\Protocols\Http\Request))
+#1 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Events\Select.php(293): Workerman\Connection\TcpConnection->baseRead(Resource id #23)
+#2 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(2430): Workerman\Events\Select->loop()
+#3 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): Workerman\Worker->run()
+#4 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#5 C:\Users\Administrator\Downloads\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#6 C:\Users\Administrator\Downloads\workerman-todpole\Applications\Todpole\start_http.php(167): Workerman\Worker::runAll()
+#7 {main}
+2021-03-21 14:24:23 pid:1 Worker process terminated
+2021-03-22 09:50:15 pid:1 PDOException: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+ in C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1708
+Stack trace:
+#0 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1708): PDO->__construct('mysql:dbname=te...', 'root', 'hwtc@666', Array)
+#1 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\Db.php(48): GatewayWorker\Lib\DbConnection->__construct('127.0.0.1', 3306, 'root', 'hwtc@666', 'test', 'utf8')
+#3 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\Lib\Logs.php(36): GatewayWorker\Lib\Db::instance('db2')
+#4 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\Lib\Logs.php(54): Lib\Logs::setLog('info', 'start MqttWorke...')
+#5 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\Events.php(54): Lib\Logs::logInfo('start MqttWorke...')
+#6 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#7 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#8 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#9 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#10 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): GatewayWorker\BusinessWorker->run()
+#11 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#12 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#13 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\start_publish.php(34): Workerman\Worker::runAll()
+#14 {main}
+2021-03-22 09:50:15 pid:1 PDOException: SQLSTATE[HY000] [2002] 由于目标计算机积极拒绝，无法连接。
+ in C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1708
+Stack trace:
+#0 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1708): PDO->__construct('mysql:dbname=te...', 'root', 'hwtc@666', Array)
+#1 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\Lib\Db.php(48): GatewayWorker\Lib\DbConnection->__construct('127.0.0.1', 3306, 'root', 'hwtc@666', 'test', 'utf8')
+#3 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\Lib\Logs.php(36): GatewayWorker\Lib\Db::instance('db2')
+#4 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\Lib\Logs.php(54): Lib\Logs::setLog('info', 'start MqttWorke...')
+#5 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\Events.php(73): Lib\Logs::logInfo('start MqttWorke...')
+#6 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#7 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(227): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#8 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(2415): GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#9 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#10 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(1417): GatewayWorker\BusinessWorker->run()
+#11 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(1360): Workerman\Worker::forkWorkersForWindows()
+#12 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\vendor\workerman\workerman\Worker.php(542): Workerman\Worker::forkWorkers()
+#13 C:\Users\yaohuif\Desktop\workerman-todpole20210321fang\workerman-todpole\Applications\Todpole\start_subscribe.php(34): Workerman\Worker::runAll()
+#14 {main}
+2021-03-22 09:50:16 pid:1 Worker process terminated
+2021-03-22 09:50:16 pid:1 Worker process terminated
+2021-03-22 10:57:48 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-22 10:57:48 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleWorker:0
+2021-03-22 10:57:49 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-22 10:57:49 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-22 10:57:49 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleWorker:0
+2021-03-22 10:57:50 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-22 10:57:50 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-22 10:57:50 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleWorker:0
+2021-03-22 10:57:51 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-22 10:57:51 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-22 10:57:52 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleWorker:0
+2021-03-22 10:57:52 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
+2021-03-22 10:57:52 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:PublishWorker:0
+2021-03-22 10:57:53 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:TodpoleWorker:0
+2021-03-22 10:57:53 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:SubscribeWorker:0
